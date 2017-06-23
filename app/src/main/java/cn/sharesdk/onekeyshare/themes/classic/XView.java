@@ -15,11 +15,10 @@ import android.view.View;
 
 /** 编辑页面中删除图片“X”按钮 */
 public class XView extends View {
-	private float ratio;
-
-	public XView(Context context) {
-		super(context);
-	}
+/**
+*xview
+**/
+	
 
 	public void setRatio(float ratio) {
 		this.ratio = ratio;
